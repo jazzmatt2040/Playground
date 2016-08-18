@@ -1,0 +1,13 @@
+# Mac
+.DS_Store
+
+# Node
+wheel/npm-debug.log
+/wheel/node_modules
+
+# Cordova
+/wheel/platforms
+/wheel/plugins
+
+# res
+wheel/resources/signing
